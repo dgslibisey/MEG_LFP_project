@@ -1,0 +1,2 @@
+participant_id	raw_meg	raw_lfp	group	include	notes
+sub-01	sub-01/meg/sub-01_task-rest_meg.fif	sub-01/lfp/sub-01_task-rest_lfp.mat	patient	0	ORNEK SATIR - kendi deneklerinizle degistirin

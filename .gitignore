@@ -1,0 +1,15 @@
+# Veri ASLA GitHub'a gitmez (hasta verisi): sadece klasor yapisi (.gitkeep) kalir
+data/**
+!data/**/
+!data/**/.gitkeep
+
+# Makale PDF'leri (telif): notes.md dosyalari versiyonlanir
+literature/**/*.pdf
+
+# MATLAB / macOS
+*.mat
+*.fig
+*.asv
+*.m~
+*.mex*
+.DS_Store
